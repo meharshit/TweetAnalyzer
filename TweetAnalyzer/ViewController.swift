@@ -20,6 +20,8 @@ class ViewController: UIViewController {
     
     
     @IBAction func predictionButton(_ sender: Any) {
+        // button for preduction
+        
     }
     
 
